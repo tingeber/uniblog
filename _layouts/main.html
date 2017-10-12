@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<aside class="sidebar">
+  <header>
+    <div class="about">
+      <div class="cover-author-image">
+        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+      </div>
+      <div class="author-name">{{site.author}}</div>
+      <p>{{site.about-author}}</p>
+    </div>
+  </header> <!-- End Header -->
+  <footer>
+    <section class="contact">
+      <h3 class="contact-title">socials</h3>
+      <ul>
+        {% if site.twitter %}
+          <li><a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        {% else %}
+          <li><a href="https://twitter.com" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.facebook %}
+          <li><a href="https://facebook.com/{{ site.facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        {% else %}
+          <li><a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.github %}
+          <li class="github"><a href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i></a></li>
+        {% else %}
+          <li class="github"><a href="http://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.keybase %}
+          <li class="keybase"><a href="https://keybase.io/{{site.keybase}}" target="_blank"><i class="fa fa-key"></i></a></li>
+        {% else %}
+          <li class="keybase"><a href="https://keybase.io/" target="_blank"><i class="fa fa-key" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.email %}
+          <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
+        {% else %}
+          <li class="email"><a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+        {% endif %}
+      </ul>
+    </section> <!-- End Section Contact -->
+    <div class="copyright">
+      <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Original content licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/artemsheludko/flexible-jekyll">Artem Sheludko's Flexible Jekyll theme</a>.</p>
+    </div>
+  </footer> <!-- End Footer -->
+</aside> <!-- End Sidebar -->
+<div class="content-box clearfix">
+  {{ content }}
+</div>
