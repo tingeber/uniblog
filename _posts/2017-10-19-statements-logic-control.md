@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+tags:
+  - research
 ---
 ## Statements, logic, and control: A summary and critique of Andrew Goffey’s “Algorithm”
 
