@@ -3,6 +3,7 @@ published: true
 layout: post
 tags:
   - research
+title: 'Statements, Logic, and Control'
 ---
 ## Statements, logic, and control: A summary and critique of Andrew Goffey’s “Algorithm”
 
