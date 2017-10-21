@@ -28,7 +28,7 @@ Code-wise this was a basic circuit, but it was important to understand how to de
 
 We were tasked with counting down our meager existence (or pasta cooking time) by turning our Arduinos into hourglasses. LEDs light up on regular intervals and you can flip the Arduino to reset them.
 
-<video controls>
+<video height="500" controls>
   <source src="{{ site.baseurl }}/assets/video/hourglass.mp4" type="video/mp4">
 </video>
 
