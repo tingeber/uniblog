@@ -9,9 +9,34 @@ tags:
   - Arduino
 ---
 
-**Latest update: 21 Oct 2017** We're playing sound with theremins and keyboard, connecting electromotors and learning about back voltage, aka the circuit board killer, counting time, and flipping boards.
+**Latest update: November 2017** things are getting random. We're making magic eight-balls, revving engines, and making super secret lock boxes that you can only open if you erm knock three times.
 
 ------------------------------
+
+# Project 12 - The Knock Lock Box
+
+A piezo listens for knocks — if it hears three properly forceful knocks, it will activate the servo and you will enter the mines of Moria.
+
+<video height="500" controls>
+  <source src="{{ site.baseurl }}/assets/video/lockBox.mp4" type="video/mp4">
+</video>
+
+# Project 11 - The Magic Eight ball
+
+Combining an LCD screen, a tilt switch, and a list of randomly summoned answers, we get the answer to any question.
+
+<video height="500" controls>
+  <source src="{{ site.baseurl }}/assets/video/crystallBall.mp4" type="video/mp4">
+</video>
+
+
+# Project 10 - Zoetrope
+
+And when I say "zoetrope" I mean "a motor with regulating speed, an on-off switch and a button to reverse spin". Probably the trickiest part of this build was finding a way to push buttons while also holding the motor and recording.
+
+<video height="500" controls>
+  <source src="{{ site.baseurl }}/assets/video/zoetrope.mp4" type="video/mp4">
+</video>
 
 
 # Project 9 - Electric Motors
