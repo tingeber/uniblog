@@ -9,9 +9,63 @@ tags:
   - Arduino
 ---
 
-**Latest update: November 2017** things are getting random. We're making magic eight-balls, revving engines, and making super secret lock boxes that you can only open if you erm knock three times.
+**Latest update: November 2017** soldering and serialising and buffering and capacitating
 
 ------------------------------
+
+# Project 14 - Sending serial input to a Processing sketch
+
+How to create input controllers that other apps can read. The pot meter sends serial data to the comp, Processing receives the data in its buffer, and assigns color values to the background of an image based on the value.
+
+<video height="500" controls>
+  <source src="{{ site.baseurl }}/assets/video/logoFiddle.mp4" type="video/mp4">
+</video>
+
+# Project 13 - Capacitive Sensor
+
+Using my body to close the circuit and tell the LED to turn on. So basically Tesla.
+
+<video height="500" controls>
+  <source src="{{ site.baseurl }}/assets/video/touchFeel.mp4" type="video/mp4">
+</video>
+
+# My First Soldering Project, aka "Grandpa Would Be Proud"
+
+For this assignment I was meant to recreate one of the earlier projects — but soldering the circuits on a tiny stripboard. I chose the heat sensor project, mostly because it used cheap components that I wouldn't mind frying in case soldering is my nemesis (spoiler: it's not and it's so. much. fun).
+
+## Step one: Schematics
+
+I wanted to have a design that looks as clean as possible, even if it meant a more complicated circuit. Well, I definitely made more work for myself than I needed to. But hey. I'm here to learn soldering, and it's all about practice.
+
+
+![]({{ site.baseurl }}/assets/img/heatsensor_bb.png)
+
+![]({{ site.baseurl }}/assets/img/heatsensor_schem.png)
+
+[Fritzing](http://fritzing.org/) to the rescue - as buggy and confusing as Fritzing is, an app that helps you visually try out combinations was a boon.
+
+## Step two: Soldering
+
+SO. MUCH. FUN. I spent about two hours on this, between getting the hang of soldering, finding the best position, hacking my schematics on the fly (cause when theory hits the real world, something inevitably breaks).
+
+![]({{ site.baseurl }}/assets/img/stripboard-front.jpg)
+
+![]({{ site.baseurl }}/assets/img/stripboard-back.jpg)
+
+## Step three: Placing on the board
+
+ I designed the strip board to fit directly on the Arduino, cause who wants loose wires all over the place.
+
+![ ]({{ site.baseurl }}/assets/img/stripboard-mounted.jpg)
+
+## Step four: Testing
+
+It worked on first try which was obviously beginners' luck. the trickiest part was - again - testing the board out with a heat source. Only this time I had the opposite problem: a heat source was readily available (a glorious heat gun), but was much more powerful than I thought. I spent about five minutes waiting for the board to cool off after I heated it to 60C in two seconds.
+
+<video height="500" controls>
+  <source src="{{ site.baseurl }}/assets/video/stripboardHeatSensor.mp4" type="video/mp4">
+</video>
+
 
 # Project 12 - The Knock Lock Box
 
