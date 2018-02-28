@@ -10,9 +10,12 @@ img: citizen.png
 _Photo by [Håkon Helberg](https://unsplash.com/photos/g-KH52m2P7g?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/rainforest-cellphone?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText)_
 
 ------------
+
 - Notes on text: **"Sensing Climate Change and Expressing Environmental Citizenship,"** chapter 4 in "[Program Earth](https://www.upress.umn.edu/book-division/gabrys_pdf)", University of Minnesota Press
 - Before you read the above text, refresh your [Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [process philosophy](https://en.wikipedia.org/wiki/Process_philosophy)
+
 ------------
+
 
 ## On Sensing
 
