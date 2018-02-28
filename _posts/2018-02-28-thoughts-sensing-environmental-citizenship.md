@@ -4,7 +4,7 @@ layout: post
 tags:
   - research
 title: 'Thoughts on climate change sensing and environmental citizenship'
-img: citizen.jpg
+img: citizen.png
 ---
 
 _Photo by [Håkon Helberg](https://unsplash.com/photos/g-KH52m2P7g?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/rainforest-cellphone?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText)_
