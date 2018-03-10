@@ -2,24 +2,15 @@
 published: true
 layout: post
 tags:
-  - research
+  - Research
 title: 'Thoughts on climate change sensing and environmental citizenship'
 img: citizen.png
 ---
 
-_Photo by [Håkon Helberg](https://unsplash.com/photos/g-KH52m2P7g?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/rainforest-cellphone?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText)_
-
-------------
-
-- Notes on text: **"Sensing Climate Change and Expressing Environmental Citizenship,"** chapter 4 in "[Program Earth](https://www.upress.umn.edu/book-division/gabrys_pdf)", University of Minnesota Press
-- Before you read the above text, refresh your [Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [process philosophy](https://en.wikipedia.org/wiki/Process_philosophy)
-
-------------
-
 
 ## On Sensing
 
-If we are to reimagine how environmental sensing is being conducted — under which premises, or assumptions, is the methodology constructed, how are sensors constructed, positioned, calibrated, and operated, etc, we should be mindful of not losing track of the _root cause issue_: are we measuring the right thing, or can that thing be seen as an effect of another event that we should be measuring instead? We need to observe the causality of findings, and make sure that our reimagining of sensing doesn’t confuse correlation with causation, or, even worse, doesn’t focus sensing on the wrong factor that could be more easily understood by finding the root cause and measuring it instead.
+Before you read on, refresh your [Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [process philosophy](https://en.wikipedia.org/wiki/Process_philosophy). If we are to reimagine how environmental sensing is being conducted — under which premises, or assumptions, is the methodology constructed, how are sensors constructed, positioned, calibrated, and operated, etc, we should be mindful of not losing track of the _root cause issue_: are we measuring the right thing, or can that thing be seen as an effect of another event that we should be measuring instead? We need to observe the causality of findings, and make sure that our reimagining of sensing doesn’t confuse correlation with causation, or, even worse, doesn’t focus sensing on the wrong factor that could be more easily understood by finding the root cause and measuring it instead.
 
 However, on the other hand, perhaps we would be better served by sensing factors and events that are _not_ root causes: perhaps a more abstract perspective would give us a more understandable, more immediate answer to our questions. a computational analogy comes from machine learning: [support vector machines](https://en.wikipedia.org/wiki/Support_vector_machine), or SVMs, augment the number of dimensions of a problem in order to make the problem easier to understand when observed.
 
@@ -43,3 +34,10 @@ The paper’s final chapter is a series of “what if" questions around an inter
 Some examples are the Rainforest Foundation’s [community mapping projects in Congo](http://www.rainforestfoundationuk.org/media.ashx/2909565-englow-res.pdf), or [grassroots-led deforestation projects in Indonesia](http://library.theengineroom.org/rainforest-tech/). There are wonderful projects that [give voice to trees](https://motherboard.vice.com/en_us/article/jp5gn4/a-network-of-recycled-phones-is-listening-for-illegal-logging-in-the-rainforest), thereby rendering them citizens, by attaching solar-powered hacked smartphones to them, that are calibrated to listen for sounds of chainsaws and send out texts with GPS coordinates to authorities and activists.
 
 All of this to say — I would love to see further exploration of existing multi- and alt-sensing operations, and citizenship amplification projects, from around the world.
+
+---
+
+
+- Notes on text: **"Sensing Climate Change and Expressing Environmental Citizenship,"** chapter 4 in "[Program Earth](https://www.upress.umn.edu/book-division/gabrys_pdf)", University of Minnesota Press
+
+Photo by [Håkon Helberg](https://unsplash.com/photos/g-KH52m2P7g?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/rainforest-cellphone?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText)

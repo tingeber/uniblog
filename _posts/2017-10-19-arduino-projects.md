@@ -6,7 +6,6 @@ description:
 img: servo.jpg
 tags:
   - Physical Computing
-  - Arduino
 ---
 
 **Latest update: November 2017** soldering and serialising and buffering and capacitating

@@ -2,11 +2,11 @@
 published: true
 layout: post
 tags:
-  - research
-title: 'Statements, Logic, and Control'
+  - Research
+title: 'Statements, Logic, and Control: A summary and critique of Andrew Goffey’s “Algorithm”'
 img: nick-tiemeyer-109668.jpg
 ---
-## Statements, logic, and control: A summary and critique of Andrew Goffey’s “Algorithm”
+
 
 Goffey’s paper focuses on teasing out the connection between algorithmic abstraction and the discursive power that the same abstraction represents, if seen as statement rather than just syntax. By opposing a reductionist and functional view of algorithms as descriptive entities, Goffey advocates for embracing abstraction by making the point that, while the push against abstraction is a valid direction when philosophically tackling other scientific spheres such as mathematics — in which abstraction removes the agent from perceiving the realities that such abstraction tries to define and, by doing so, inevitably distorts the main descriptive goal of the abstraction itself — algorithmic abstraction is what makes algorithms unique entities with real-world implications. This approach flips the direction of meaningfulness on its head when discussing algorithms — their abstractive nature is core to their real, pragmatic importance, not the other way around.
 

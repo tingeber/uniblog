@@ -6,7 +6,6 @@ description:
 img: onmysleeve-sketch.jpg
 tags:
   - Physical Computing
-  - Arduino
 ---
 
 ## Concept

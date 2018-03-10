@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to an empty blog
+title: Welcome to the uniblog
 date: 2017-10-12T00:00:00.000Z
 description:
 img: null

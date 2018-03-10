@@ -2,7 +2,7 @@
 published: true
 layout: post
 tags:
-  - research
+  - Research
 title: 'Machine-mediated humanitarianism'
 img: fence.jpg
 ---
