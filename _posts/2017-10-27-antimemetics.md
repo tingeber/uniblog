@@ -24,7 +24,7 @@ Now over to Clough’s reading of arts as politics, and how the recent commodifi
 
 > ...we need first to rethink the object and commodification; we need to rethink neoliberalism’s forms in terms of the developments of digital technology.
 
-The new ontology, and the relation with the non-human turn, has the potential to be the single biggest revolution in artistic creation. Dethroning the human is neither a new proposition (eppur si muove), nor is it inherently good or bad. However, we must not forget how the current dethroning has been shaped, which forces drive it, and [which goals it strives toward](https://wiki.lesswrong.com/wiki/Paperclip_maximizer). However, for this to happen we need to wait for two factors to become true:
+The new ontology, and the relation with the non-human turn, has the potential to be the single biggest revolution in artistic creation. Dethroning the human is neither a new proposition (eppur si muove), nor is it inherently good or bad. However, we must not forget how the current dethroning has been shaped, which forces drive it, and [which goals it strives toward](https://wiki.lesswrong.com/wiki/Paperclip_maximizer). For this to happen we need to wait for two factors to become true:
 
 1. We need to develop informational antimemetics, and
 2. The non-human object needs to reach a stage of self-awareness that will permit it to shape its own artistic vision
