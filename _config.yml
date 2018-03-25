@@ -12,7 +12,7 @@ about-author: Documenting my MA in Computational Arts at Goldsmiths # add descri
 twitter: "@tingeber"  # add your Twitter handle
 facebook: "@tingeber" # add your Facebook handle
 github: tingeber # add your Github handle
-keybase: tingeber # add your Linkedin handle
+keybase: tingeber # add your Keybase handle
 email: me@tin.fyi # add your Email address
 
 # Disqus
@@ -27,7 +27,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-paginate: 8
+paginate: 20
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
