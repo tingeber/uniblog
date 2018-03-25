@@ -4,7 +4,7 @@ layout: post
 tags:
   - Research
 title: 'Thoughts on climate change sensing and environmental citizenship'
-img: citizen.png
+img: citizen-small.jpg
 ---
 
 
